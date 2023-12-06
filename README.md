@@ -47,7 +47,7 @@ This repository hosts a curated set of notebooks and related resources, offering
 
 ### README.md
 
-This file serves as your repository's front page. It offers an overview of the repository's purpose, contents, and how to navigate or use the resources effectively. It's the first point of contact for anyone exploring the repository.
+This file serves as the repository's front page. It offers an overview of the repository's purpose, contents, and how to navigate or use the resources effectively. It's the first point of contact for anyone exploring the repository.
 
 ### datasets
 
