@@ -55,15 +55,15 @@ Contains the datasets used in the seminar. This includes `seoul_bike_data.csv` f
 
 ### end_to_end_research
 
-This folder houses materials for conducting comprehensive research projects. It includes `end_to_end.ipynb`, a Jupyter notebook that guides users through a complete data science project from start to finish, and `end_to_end_checklist.md`, a markdown file providing a checklist to ensure all essential steps of a data science project are covered.
+This folder houses materials for conducting comprehensive research projects. It includes [End to End ML Project](end_to_end_research/end_to_end.ipynb), a Jupyter notebook that guides users through a complete data science project from start to finish, and [End to End Project Checklist](end_to_end_research/end_to_end_checklist.md), a markdown file providing a checklist to ensure all essential steps of a data science project are covered.
 
 ### exploratory_data_analysis
 
-Contains `eda.ipynb`, a Jupyter notebook focused on Exploratory Data Analysis (EDA). This notebook teaches how to perform initial investigations on data to discover patterns, spot anomalies, test hypotheses, and check assumptions using statistical figures and plots.
+Contains [Exploratory Data Analysis](exploratory_data_analysis/eda.ipynb), a Jupyter notebook focused on Exploratory Data Analysis (EDA). This notebook teaches how to perform initial investigations on data to discover patterns, spot anomalies, test hypotheses, and check assumptions using statistical figures and plots.
 
 ### feature_engineering
 
-Hosts `feature_engineering.ipynb`, a notebook dedicated to the process of feature engineering. This involves creating new features from existing data and selecting the most relevant features for modeling, which is crucial in enhancing the performance of machine learning algorithms.
+Hosts [Feature Engineering](feature_engineering/feature_engineering.ipynb), a notebook dedicated to the process of feature engineering. This involves creating new features from existing data and selecting the most relevant features for modeling, which is crucial in enhancing the performance of machine learning algorithms.
 
 ### getting_started
 
