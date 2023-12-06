@@ -67,7 +67,7 @@ Hosts `feature_engineering.ipynb`, a notebook dedicated to the process of featur
 
 ### getting_started
 
-This folder is designed for beginners. It contains `first_steps.ipynb`, introducing basic Python concepts and data manipulation techniques, and `resources.ipynb`, which lists additional learning resources, tutorials, and guides for Python and data science.
+This folder is designed for beginners. It contains [First Steps](getting_started/first_steps.ipynb), introducing basic Python concepts and data manipulation techniques, and [Resources](getting_started/resources.ipynb), which lists additional learning resources, tutorials, and guides for Python and data science.
 
 ### images
 
