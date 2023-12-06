@@ -75,6 +75,6 @@ Stores images used in the repository, including the `mdsi_logo.png`. This folder
 
 ### python_basics
 
-This includes `python_crash_course.ipynb`, a notebook offering a crash course on Python basics. It's aimed at those who are new to Python or programming in general, covering fundamental concepts and operations in Python.
+This includes [Python Basics Crash Course](python_basics/python_crash_course.ipynb), a notebook offering a crash course on Python basics. It's aimed at those who are new to Python or programming in general, covering fundamental concepts and operations in Python.
 
 Each folder is structured to facilitate a step-by-step learning process, starting from Python basics to more advanced topics in data science.
