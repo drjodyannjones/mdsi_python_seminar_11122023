@@ -65,6 +65,7 @@ Each of these components contributes to the overall behavior of a time series da
 2. **Statistical Tests**:
    - Augmented Dickey-Fuller test or KPSS tests for stationarity.
    - ACF and PACF plots for understanding autocorrelations.
+     > Read more about interpreting ACF and PACF plots <a href="https://towardsdatascience.com/interpreting-acf-and-pacf-plots-for-time-series-forecasting-af0d6db4061c">here</a>.
 
 #### Advanced Feature Engineering in Time Series
 
